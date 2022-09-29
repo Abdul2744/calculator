@@ -1,4 +1,4 @@
 # Calculator
 
 
-Try Now https://ankitkumarsingh007.github.io/Calculator/
+Try Now https://abdul2744.github.io/calculator/
